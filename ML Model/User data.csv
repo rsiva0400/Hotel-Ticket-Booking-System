@@ -1,0 +1,1001 @@
+Genre,Alert,Notification,Immersiveness,Preference
+action,Health,Status Update,Browsing,Control opacity
+shooter,Environment,Status Update,DND,Control opacity
+360 VR,Maintenance,Unscheduled,DND,Control opacity
+sports,Maintenance,Scheduled,Highly,Control opacity
+shooter,Maintenance,Unscheduled,Highly,Increase player speed
+adventure,Security,Unscheduled,Moderate,Control Audio
+shooter,Environment,Status Update,DND,Control opacity
+art/creativity,Environment,Unscheduled,DND,Control opacity
+relaxation/meditation,Health,Scheduled,DND,Increase player speed
+Travel,Health,Status Update,Browsing,Increase player speed
+360 VR,Maintenance,Scheduled,DND,Control opacity
+relaxation/meditation,Health,Unscheduled,DND,Control Audio
+relaxation/meditation,Health,Unscheduled,Browsing,Control opacity
+sports,Maintenance,Scheduled,Browsing,Control opacity
+simulation,Health,Status Update,DND,Increase player speed
+productivity,Maintenance,Unscheduled,Moderate,Increase player speed
+art/creativity,Environment,Scheduled,Browsing,Control opacity
+Travel,Environment,Scheduled,Highly,Control opacity
+shooter,Maintenance,Status Update,DND,Control Audio
+productivity,Maintenance,Unscheduled,Highly,Control Audio
+relaxation/meditation,Health,Scheduled,Moderate,Control opacity
+art/creativity,Maintenance,Unscheduled,Browsing,Control opacity
+shooter,Environment,Scheduled,Moderate,Control Audio
+art/creativity,Maintenance,Scheduled,Browsing,Control opacity
+productivity,Health,Scheduled,DND,Control Audio
+productivity,Maintenance,Scheduled,Browsing,Increase player speed
+sports,Environment,Unscheduled,Moderate,Control Audio
+action,Maintenance,Status Update,DND,Increase player speed
+simulation,Maintenance,Unscheduled,Browsing,Control Audio
+adventure,Health,Status Update,Moderate,Control Audio
+art/creativity,Security,Scheduled,Browsing,Control Audio
+360 VR,Maintenance,Status Update,Browsing,Control Audio
+shooter,Environment,Scheduled,DND,Increase player speed
+Travel,Maintenance,Status Update,Browsing,Control opacity
+productivity,Health,Unscheduled,Browsing,Increase player speed
+Travel,Maintenance,Scheduled,Highly,Increase player speed
+sports,Environment,Unscheduled,Browsing,Control opacity
+adventure,Environment,Unscheduled,Browsing,Increase player speed
+productivity,Health,Scheduled,Highly,Control Audio
+art/creativity,Environment,Scheduled,Moderate,Control Audio
+art/creativity,Health,Unscheduled,Browsing,Control Audio
+productivity,Environment,Unscheduled,DND,Control Audio
+shooter,Security,Unscheduled,Moderate,Control opacity
+art/creativity,Security,Status Update,DND,Control Audio
+shooter,Maintenance,Status Update,Moderate,Control opacity
+relaxation/meditation,Health,Status Update,Browsing,Control Audio
+adventure,Environment,Status Update,Moderate,Control Audio
+adventure,Security,Status Update,DND,Control opacity
+simulation,Environment,Status Update,Moderate,Control Audio
+streaming,Health,Scheduled,Moderate,Increase player speed
+360 VR,Security,Unscheduled,DND,Increase player speed
+shooter,Health,Status Update,DND,Control opacity
+shooter,Environment,Status Update,Highly,Control opacity
+art/creativity,Maintenance,Scheduled,DND,Control Audio
+adventure,Environment,Scheduled,Highly,Increase player speed
+adventure,Maintenance,Unscheduled,DND,Control opacity
+art/creativity,Security,Status Update,Moderate,Control opacity
+simulation,Health,Unscheduled,Highly,Increase player speed
+action,Environment,Status Update,Browsing,Control opacity
+art/creativity,Security,Unscheduled,DND,Control opacity
+simulation,Health,Scheduled,Highly,Control opacity
+adventure,Environment,Status Update,Moderate,Control Audio
+action,Health,Scheduled,Highly,Control Audio
+art/creativity,Maintenance,Status Update,Moderate,Increase player speed
+action,Maintenance,Scheduled,Browsing,Increase player speed
+shooter,Maintenance,Scheduled,Browsing,Increase player speed
+action,Environment,Unscheduled,Browsing,Control opacity
+relaxation/meditation,Environment,Scheduled,Browsing,Increase player speed
+relaxation/meditation,Security,Status Update,Moderate,Control opacity
+shooter,Environment,Unscheduled,Browsing,Increase player speed
+productivity,Environment,Scheduled,DND,Increase player speed
+360 VR,Security,Status Update,DND,Increase player speed
+360 VR,Health,Unscheduled,Browsing,Control Audio
+adventure,Health,Status Update,Browsing,Increase player speed
+shooter,Security,Status Update,DND,Control Audio
+adventure,Health,Unscheduled,Highly,Control Audio
+sports,Health,Scheduled,Moderate,Increase player speed
+action,Security,Unscheduled,DND,Control Audio
+art/creativity,Health,Status Update,DND,Control opacity
+sports,Environment,Unscheduled,DND,Control opacity
+art/creativity,Environment,Unscheduled,DND,Increase player speed
+sports,Security,Status Update,Highly,Control opacity
+relaxation/meditation,Environment,Scheduled,Highly,Control Audio
+art/creativity,Health,Unscheduled,Moderate,Control Audio
+simulation,Maintenance,Unscheduled,Browsing,Control Audio
+simulation,Security,Unscheduled,Browsing,Control Audio
+360 VR,Security,Scheduled,Browsing,Control opacity
+action,Maintenance,Status Update,Highly,Control Audio
+action,Health,Unscheduled,DND,Control opacity
+Travel,Maintenance,Unscheduled,DND,Increase player speed
+simulation,Security,Status Update,Moderate,Control opacity
+productivity,Health,Unscheduled,Browsing,Increase player speed
+sports,Environment,Status Update,Highly,Control opacity
+Travel,Health,Scheduled,Moderate,Control Audio
+Travel,Maintenance,Unscheduled,Moderate,Control opacity
+relaxation/meditation,Security,Unscheduled,DND,Increase player speed
+action,Maintenance,Status Update,DND,Control Audio
+streaming,Security,Status Update,Browsing,Control Audio
+sports,Maintenance,Unscheduled,Browsing,Control opacity
+Travel,Health,Status Update,Moderate,Increase player speed
+action,Health,Unscheduled,Browsing,Control opacity
+Travel,Environment,Unscheduled,DND,Increase player speed
+sports,Maintenance,Status Update,DND,Increase player speed
+productivity,Environment,Status Update,Moderate,Control opacity
+productivity,Health,Unscheduled,Browsing,Control Audio
+360 VR,Maintenance,Scheduled,DND,Increase player speed
+productivity,Maintenance,Status Update,DND,Control Audio
+Travel,Environment,Scheduled,Browsing,Control opacity
+360 VR,Security,Unscheduled,DND,Control opacity
+adventure,Environment,Scheduled,Browsing,Control Audio
+sports,Security,Scheduled,DND,Control Audio
+streaming,Environment,Scheduled,Browsing,Control Audio
+360 VR,Maintenance,Scheduled,Moderate,Control Audio
+360 VR,Environment,Unscheduled,Browsing,Increase player speed
+adventure,Health,Scheduled,Highly,Control Audio
+art/creativity,Health,Scheduled,Highly,Control opacity
+sports,Health,Status Update,DND,Increase player speed
+adventure,Health,Unscheduled,DND,Control opacity
+sports,Environment,Unscheduled,Moderate,Increase player speed
+adventure,Environment,Scheduled,Browsing,Increase player speed
+productivity,Environment,Scheduled,DND,Control opacity
+action,Security,Status Update,DND,Increase player speed
+simulation,Maintenance,Status Update,DND,Control opacity
+Travel,Environment,Unscheduled,Browsing,Control opacity
+streaming,Health,Scheduled,Moderate,Increase player speed
+art/creativity,Security,Status Update,Moderate,Control Audio
+adventure,Health,Scheduled,Moderate,Control Audio
+streaming,Environment,Scheduled,Highly,Control Audio
+streaming,Health,Unscheduled,Browsing,Control opacity
+relaxation/meditation,Health,Status Update,Moderate,Control opacity
+sports,Security,Status Update,DND,Increase player speed
+360 VR,Maintenance,Scheduled,Moderate,Control Audio
+streaming,Security,Scheduled,Highly,Increase player speed
+streaming,Maintenance,Scheduled,DND,Control opacity
+360 VR,Environment,Status Update,Browsing,Control opacity
+relaxation/meditation,Environment,Unscheduled,Highly,Control opacity
+productivity,Maintenance,Scheduled,Moderate,Control opacity
+relaxation/meditation,Health,Unscheduled,Browsing,Control Audio
+simulation,Maintenance,Unscheduled,Browsing,Control opacity
+sports,Health,Scheduled,DND,Control opacity
+sports,Maintenance,Status Update,DND,Control opacity
+art/creativity,Health,Scheduled,Moderate,Increase player speed
+sports,Security,Unscheduled,Highly,Increase player speed
+360 VR,Maintenance,Scheduled,Highly,Control opacity
+art/creativity,Environment,Status Update,Highly,Control Audio
+simulation,Health,Scheduled,Highly,Control opacity
+action,Environment,Scheduled,Moderate,Control Audio
+simulation,Maintenance,Unscheduled,Moderate,Control opacity
+action,Environment,Status Update,Highly,Increase player speed
+shooter,Environment,Status Update,Browsing,Control Audio
+adventure,Maintenance,Scheduled,DND,Increase player speed
+art/creativity,Health,Status Update,Highly,Increase player speed
+streaming,Health,Status Update,Highly,Increase player speed
+streaming,Maintenance,Scheduled,Highly,Control opacity
+simulation,Environment,Status Update,DND,Control Audio
+relaxation/meditation,Health,Scheduled,Highly,Control Audio
+Travel,Health,Scheduled,Browsing,Control opacity
+360 VR,Health,Unscheduled,DND,Increase player speed
+adventure,Health,Status Update,DND,Control Audio
+simulation,Environment,Status Update,DND,Control Audio
+sports,Maintenance,Status Update,Highly,Control Audio
+productivity,Environment,Unscheduled,DND,Increase player speed
+productivity,Maintenance,Status Update,Browsing,Control Audio
+action,Health,Status Update,Moderate,Increase player speed
+relaxation/meditation,Security,Unscheduled,DND,Control opacity
+streaming,Health,Unscheduled,Highly,Control opacity
+shooter,Security,Status Update,Moderate,Control Audio
+relaxation/meditation,Maintenance,Scheduled,Browsing,Control opacity
+relaxation/meditation,Security,Status Update,Moderate,Control opacity
+adventure,Maintenance,Status Update,Highly,Control opacity
+simulation,Environment,Status Update,Highly,Control opacity
+streaming,Environment,Scheduled,Moderate,Control opacity
+360 VR,Maintenance,Status Update,Moderate,Control Audio
+action,Maintenance,Unscheduled,Highly,Increase player speed
+streaming,Environment,Unscheduled,Browsing,Increase player speed
+simulation,Health,Status Update,Moderate,Increase player speed
+sports,Environment,Status Update,Highly,Control Audio
+Travel,Maintenance,Scheduled,Browsing,Control opacity
+360 VR,Health,Unscheduled,DND,Control opacity
+adventure,Health,Status Update,DND,Control Audio
+360 VR,Environment,Unscheduled,Browsing,Increase player speed
+Travel,Security,Scheduled,Highly,Control Audio
+art/creativity,Environment,Unscheduled,Moderate,Control opacity
+streaming,Security,Unscheduled,Moderate,Increase player speed
+art/creativity,Environment,Unscheduled,Moderate,Control opacity
+streaming,Health,Unscheduled,Moderate,Control opacity
+sports,Environment,Scheduled,Highly,Increase player speed
+360 VR,Health,Scheduled,Browsing,Increase player speed
+streaming,Environment,Status Update,DND,Control opacity
+streaming,Maintenance,Status Update,Highly,Increase player speed
+relaxation/meditation,Environment,Unscheduled,Moderate,Control Audio
+simulation,Maintenance,Status Update,Browsing,Control Audio
+streaming,Maintenance,Status Update,Moderate,Control opacity
+360 VR,Health,Scheduled,Highly,Increase player speed
+Travel,Health,Unscheduled,DND,Control Audio
+productivity,Environment,Unscheduled,Browsing,Control Audio
+sports,Health,Scheduled,Highly,Control opacity
+productivity,Environment,Unscheduled,Moderate,Control Audio
+360 VR,Environment,Status Update,Highly,Control opacity
+productivity,Security,Status Update,DND,Increase player speed
+streaming,Security,Status Update,Moderate,Control opacity
+360 VR,Security,Unscheduled,DND,Control Audio
+shooter,Health,Status Update,DND,Control opacity
+productivity,Environment,Scheduled,Moderate,Control opacity
+shooter,Security,Scheduled,Highly,Control opacity
+relaxation/meditation,Maintenance,Status Update,Browsing,Increase player speed
+relaxation/meditation,Security,Scheduled,Highly,Increase player speed
+art/creativity,Environment,Unscheduled,Browsing,Control Audio
+streaming,Environment,Status Update,DND,Control opacity
+adventure,Environment,Scheduled,Highly,Control opacity
+action,Security,Unscheduled,Highly,Control opacity
+360 VR,Security,Scheduled,DND,Control opacity
+relaxation/meditation,Security,Status Update,Highly,Increase player speed
+streaming,Maintenance,Status Update,Moderate,Control Audio
+360 VR,Environment,Scheduled,Moderate,Control opacity
+simulation,Maintenance,Unscheduled,Highly,Increase player speed
+sports,Maintenance,Scheduled,Moderate,Increase player speed
+art/creativity,Environment,Status Update,Moderate,Control opacity
+productivity,Environment,Status Update,DND,Increase player speed
+relaxation/meditation,Security,Unscheduled,DND,Control Audio
+shooter,Maintenance,Status Update,Browsing,Control opacity
+simulation,Health,Unscheduled,Highly,Increase player speed
+shooter,Environment,Status Update,Browsing,Increase player speed
+360 VR,Environment,Scheduled,Highly,Control opacity
+simulation,Environment,Scheduled,Highly,Increase player speed
+shooter,Maintenance,Status Update,Moderate,Control opacity
+Travel,Security,Unscheduled,Highly,Increase player speed
+art/creativity,Security,Unscheduled,Browsing,Increase player speed
+art/creativity,Health,Scheduled,Moderate,Increase player speed
+relaxation/meditation,Security,Scheduled,DND,Control Audio
+360 VR,Security,Status Update,DND,Control opacity
+shooter,Security,Scheduled,Moderate,Control opacity
+productivity,Security,Unscheduled,Highly,Control Audio
+action,Health,Unscheduled,DND,Control Audio
+360 VR,Environment,Scheduled,DND,Increase player speed
+shooter,Health,Status Update,Browsing,Control opacity
+360 VR,Health,Status Update,Highly,Increase player speed
+shooter,Health,Status Update,Moderate,Control Audio
+streaming,Environment,Status Update,Highly,Control opacity
+simulation,Security,Status Update,Browsing,Control Audio
+art/creativity,Health,Scheduled,Highly,Increase player speed
+relaxation/meditation,Health,Unscheduled,DND,Control Audio
+productivity,Maintenance,Status Update,Moderate,Control opacity
+art/creativity,Health,Scheduled,Browsing,Control Audio
+sports,Maintenance,Unscheduled,Highly,Control Audio
+art/creativity,Maintenance,Status Update,Highly,Control Audio
+relaxation/meditation,Maintenance,Unscheduled,Highly,Increase player speed
+relaxation/meditation,Health,Scheduled,Highly,Control Audio
+360 VR,Security,Unscheduled,Moderate,Increase player speed
+Travel,Environment,Status Update,Highly,Control opacity
+simulation,Health,Scheduled,Moderate,Control Audio
+sports,Security,Status Update,Highly,Control Audio
+simulation,Maintenance,Status Update,Browsing,Control Audio
+action,Health,Unscheduled,Browsing,Control Audio
+action,Security,Unscheduled,Moderate,Control Audio
+Travel,Maintenance,Scheduled,Highly,Control opacity
+productivity,Health,Unscheduled,DND,Control opacity
+relaxation/meditation,Maintenance,Unscheduled,Browsing,Control Audio
+productivity,Health,Status Update,DND,Control Audio
+simulation,Environment,Status Update,Moderate,Control opacity
+streaming,Environment,Status Update,Highly,Increase player speed
+streaming,Health,Unscheduled,DND,Control Audio
+adventure,Maintenance,Scheduled,Highly,Control opacity
+Travel,Health,Status Update,DND,Increase player speed
+art/creativity,Security,Unscheduled,Moderate,Control Audio
+productivity,Environment,Unscheduled,Moderate,Control opacity
+adventure,Environment,Status Update,Moderate,Control opacity
+streaming,Security,Scheduled,DND,Control opacity
+shooter,Security,Status Update,Browsing,Increase player speed
+Travel,Security,Unscheduled,Browsing,Control opacity
+relaxation/meditation,Security,Status Update,Highly,Control opacity
+shooter,Security,Status Update,DND,Control opacity
+relaxation/meditation,Maintenance,Status Update,Moderate,Control Audio
+adventure,Health,Scheduled,Moderate,Control Audio
+Travel,Health,Status Update,DND,Increase player speed
+productivity,Security,Status Update,Moderate,Control opacity
+360 VR,Environment,Scheduled,DND,Control Audio
+adventure,Security,Unscheduled,DND,Control Audio
+adventure,Security,Unscheduled,Browsing,Control Audio
+Travel,Security,Status Update,Browsing,Control opacity
+simulation,Maintenance,Status Update,DND,Increase player speed
+Travel,Maintenance,Unscheduled,Highly,Increase player speed
+simulation,Environment,Unscheduled,DND,Increase player speed
+art/creativity,Security,Unscheduled,DND,Increase player speed
+sports,Environment,Unscheduled,DND,Increase player speed
+art/creativity,Health,Status Update,DND,Control Audio
+streaming,Environment,Unscheduled,DND,Control opacity
+streaming,Security,Unscheduled,Moderate,Control Audio
+simulation,Health,Scheduled,Browsing,Control Audio
+Travel,Environment,Unscheduled,Highly,Control opacity
+sports,Health,Unscheduled,Highly,Increase player speed
+streaming,Environment,Status Update,DND,Control opacity
+adventure,Security,Scheduled,Highly,Increase player speed
+sports,Health,Unscheduled,Moderate,Increase player speed
+Travel,Environment,Scheduled,Highly,Increase player speed
+relaxation/meditation,Environment,Scheduled,Browsing,Control opacity
+productivity,Environment,Status Update,Browsing,Control Audio
+action,Security,Scheduled,Moderate,Increase player speed
+streaming,Security,Unscheduled,DND,Increase player speed
+productivity,Health,Scheduled,DND,Control opacity
+action,Environment,Scheduled,Browsing,Control opacity
+simulation,Maintenance,Status Update,Browsing,Increase player speed
+action,Security,Scheduled,DND,Increase player speed
+productivity,Maintenance,Scheduled,Highly,Control opacity
+art/creativity,Environment,Unscheduled,Browsing,Control opacity
+streaming,Health,Scheduled,Browsing,Control opacity
+shooter,Environment,Unscheduled,DND,Increase player speed
+action,Health,Unscheduled,Browsing,Control Audio
+simulation,Environment,Scheduled,Browsing,Control Audio
+adventure,Maintenance,Unscheduled,Highly,Control opacity
+relaxation/meditation,Maintenance,Status Update,Moderate,Control Audio
+adventure,Health,Unscheduled,DND,Control Audio
+360 VR,Environment,Unscheduled,DND,Increase player speed
+360 VR,Security,Scheduled,Highly,Increase player speed
+360 VR,Maintenance,Scheduled,Browsing,Increase player speed
+adventure,Health,Scheduled,Browsing,Control opacity
+360 VR,Security,Unscheduled,Highly,Control Audio
+action,Health,Unscheduled,DND,Control Audio
+adventure,Health,Status Update,Highly,Increase player speed
+adventure,Environment,Status Update,Browsing,Control opacity
+relaxation/meditation,Security,Scheduled,DND,Control opacity
+art/creativity,Maintenance,Status Update,Highly,Control opacity
+simulation,Security,Scheduled,DND,Control Audio
+shooter,Health,Unscheduled,DND,Control Audio
+art/creativity,Health,Scheduled,Highly,Control Audio
+productivity,Health,Status Update,Browsing,Control opacity
+relaxation/meditation,Security,Scheduled,DND,Control opacity
+360 VR,Maintenance,Unscheduled,Browsing,Control opacity
+action,Security,Status Update,Highly,Control opacity
+relaxation/meditation,Security,Scheduled,DND,Increase player speed
+relaxation/meditation,Security,Unscheduled,Moderate,Increase player speed
+art/creativity,Environment,Unscheduled,Browsing,Control Audio
+shooter,Health,Unscheduled,Moderate,Control opacity
+art/creativity,Security,Scheduled,Moderate,Control opacity
+sports,Security,Unscheduled,Moderate,Control opacity
+Travel,Security,Unscheduled,Browsing,Increase player speed
+art/creativity,Environment,Status Update,Highly,Increase player speed
+relaxation/meditation,Maintenance,Status Update,Moderate,Control Audio
+adventure,Environment,Scheduled,Moderate,Increase player speed
+action,Health,Status Update,Moderate,Control opacity
+shooter,Security,Scheduled,DND,Increase player speed
+sports,Security,Scheduled,Highly,Increase player speed
+shooter,Security,Unscheduled,DND,Control opacity
+adventure,Health,Status Update,Highly,Control Audio
+action,Environment,Status Update,Browsing,Increase player speed
+streaming,Maintenance,Scheduled,Browsing,Control Audio
+adventure,Health,Unscheduled,Highly,Control opacity
+adventure,Security,Unscheduled,DND,Increase player speed
+simulation,Maintenance,Unscheduled,DND,Control Audio
+action,Health,Scheduled,Browsing,Increase player speed
+simulation,Health,Status Update,Moderate,Control Audio
+adventure,Environment,Status Update,Highly,Control opacity
+action,Health,Unscheduled,Highly,Increase player speed
+sports,Health,Status Update,Highly,Control Audio
+art/creativity,Maintenance,Unscheduled,DND,Increase player speed
+relaxation/meditation,Maintenance,Scheduled,Browsing,Control Audio
+art/creativity,Environment,Status Update,Highly,Control Audio
+streaming,Maintenance,Status Update,Browsing,Control opacity
+art/creativity,Health,Scheduled,DND,Control Audio
+productivity,Maintenance,Unscheduled,Browsing,Control opacity
+art/creativity,Health,Unscheduled,Moderate,Control opacity
+Travel,Environment,Scheduled,Browsing,Increase player speed
+streaming,Environment,Scheduled,Moderate,Control Audio
+action,Security,Scheduled,Highly,Increase player speed
+simulation,Security,Scheduled,DND,Increase player speed
+action,Maintenance,Unscheduled,Highly,Increase player speed
+relaxation/meditation,Security,Status Update,Browsing,Increase player speed
+streaming,Security,Status Update,Moderate,Control Audio
+relaxation/meditation,Health,Scheduled,Moderate,Control Audio
+relaxation/meditation,Maintenance,Status Update,DND,Increase player speed
+Travel,Health,Scheduled,Highly,Control opacity
+simulation,Maintenance,Status Update,Browsing,Increase player speed
+simulation,Maintenance,Unscheduled,Moderate,Increase player speed
+sports,Security,Scheduled,Browsing,Control opacity
+adventure,Security,Unscheduled,Moderate,Increase player speed
+simulation,Health,Unscheduled,DND,Control Audio
+productivity,Health,Scheduled,DND,Increase player speed
+shooter,Health,Scheduled,Highly,Control Audio
+art/creativity,Security,Unscheduled,Browsing,Control Audio
+360 VR,Environment,Status Update,Moderate,Increase player speed
+action,Environment,Scheduled,DND,Control Audio
+shooter,Environment,Scheduled,Highly,Increase player speed
+productivity,Health,Status Update,Browsing,Control opacity
+relaxation/meditation,Environment,Status Update,Browsing,Control Audio
+productivity,Security,Scheduled,Highly,Control Audio
+Travel,Health,Scheduled,Highly,Increase player speed
+streaming,Environment,Scheduled,DND,Increase player speed
+relaxation/meditation,Maintenance,Unscheduled,Moderate,Control opacity
+sports,Environment,Status Update,Moderate,Increase player speed
+action,Maintenance,Unscheduled,Browsing,Control opacity
+shooter,Environment,Scheduled,Highly,Control Audio
+adventure,Security,Unscheduled,DND,Control Audio
+action,Security,Unscheduled,Moderate,Increase player speed
+Travel,Maintenance,Scheduled,Moderate,Increase player speed
+relaxation/meditation,Security,Scheduled,DND,Increase player speed
+art/creativity,Maintenance,Unscheduled,Moderate,Control Audio
+adventure,Environment,Unscheduled,Browsing,Control Audio
+action,Health,Unscheduled,DND,Control Audio
+adventure,Health,Status Update,Moderate,Control Audio
+adventure,Health,Unscheduled,Moderate,Control Audio
+relaxation/meditation,Environment,Scheduled,Browsing,Control Audio
+streaming,Environment,Scheduled,DND,Control opacity
+shooter,Health,Scheduled,DND,Increase player speed
+streaming,Environment,Scheduled,Moderate,Control opacity
+adventure,Maintenance,Unscheduled,Moderate,Control Audio
+simulation,Security,Scheduled,Highly,Control opacity
+streaming,Environment,Scheduled,Highly,Control opacity
+action,Maintenance,Unscheduled,Highly,Control opacity
+relaxation/meditation,Maintenance,Unscheduled,DND,Increase player speed
+action,Security,Scheduled,DND,Control opacity
+shooter,Security,Scheduled,DND,Control Audio
+relaxation/meditation,Security,Status Update,DND,Control Audio
+shooter,Health,Scheduled,Moderate,Control opacity
+simulation,Health,Unscheduled,DND,Control opacity
+simulation,Environment,Unscheduled,Browsing,Control Audio
+adventure,Security,Unscheduled,Highly,Increase player speed
+action,Maintenance,Unscheduled,Browsing,Control Audio
+art/creativity,Maintenance,Status Update,Highly,Control Audio
+action,Maintenance,Scheduled,Moderate,Control opacity
+Travel,Health,Unscheduled,Browsing,Control Audio
+productivity,Environment,Scheduled,Highly,Control Audio
+Travel,Environment,Unscheduled,Moderate,Increase player speed
+streaming,Environment,Status Update,Browsing,Control Audio
+sports,Health,Scheduled,DND,Control Audio
+relaxation/meditation,Security,Scheduled,DND,Control opacity
+shooter,Health,Unscheduled,Moderate,Increase player speed
+360 VR,Health,Unscheduled,Highly,Increase player speed
+art/creativity,Environment,Unscheduled,Highly,Control Audio
+adventure,Health,Scheduled,Browsing,Increase player speed
+art/creativity,Maintenance,Unscheduled,DND,Increase player speed
+Travel,Maintenance,Status Update,Browsing,Control opacity
+adventure,Maintenance,Status Update,Browsing,Control opacity
+360 VR,Environment,Scheduled,Moderate,Control Audio
+art/creativity,Security,Unscheduled,Browsing,Control Audio
+productivity,Environment,Status Update,Highly,Increase player speed
+streaming,Health,Unscheduled,DND,Control opacity
+shooter,Maintenance,Unscheduled,DND,Increase player speed
+adventure,Security,Unscheduled,Highly,Control opacity
+art/creativity,Health,Scheduled,Browsing,Control Audio
+streaming,Security,Unscheduled,Highly,Control Audio
+relaxation/meditation,Environment,Scheduled,Highly,Control opacity
+Travel,Environment,Unscheduled,Browsing,Control Audio
+360 VR,Environment,Unscheduled,Browsing,Control opacity
+sports,Security,Unscheduled,DND,Control Audio
+shooter,Security,Status Update,Moderate,Control Audio
+productivity,Health,Status Update,Browsing,Increase player speed
+adventure,Security,Unscheduled,Moderate,Increase player speed
+sports,Maintenance,Scheduled,DND,Increase player speed
+360 VR,Environment,Scheduled,Moderate,Control opacity
+adventure,Health,Status Update,DND,Control Audio
+streaming,Security,Status Update,Highly,Control Audio
+sports,Health,Scheduled,Highly,Control Audio
+Travel,Security,Unscheduled,Moderate,Control opacity
+sports,Health,Status Update,Browsing,Increase player speed
+relaxation/meditation,Maintenance,Status Update,Highly,Control opacity
+Travel,Health,Unscheduled,DND,Control opacity
+360 VR,Security,Unscheduled,Moderate,Control opacity
+sports,Environment,Unscheduled,Highly,Increase player speed
+shooter,Health,Scheduled,Highly,Control Audio
+relaxation/meditation,Security,Status Update,DND,Control Audio
+relaxation/meditation,Environment,Status Update,Moderate,Control Audio
+streaming,Environment,Unscheduled,DND,Control opacity
+adventure,Security,Unscheduled,DND,Increase player speed
+relaxation/meditation,Health,Status Update,DND,Increase player speed
+simulation,Environment,Unscheduled,Highly,Increase player speed
+adventure,Environment,Unscheduled,Moderate,Control Audio
+adventure,Environment,Status Update,DND,Control Audio
+action,Health,Status Update,Moderate,Control Audio
+Travel,Security,Unscheduled,DND,Increase player speed
+360 VR,Maintenance,Scheduled,Browsing,Control Audio
+streaming,Maintenance,Unscheduled,Moderate,Control Audio
+shooter,Environment,Status Update,Browsing,Control opacity
+productivity,Health,Unscheduled,Browsing,Control opacity
+shooter,Security,Status Update,Moderate,Increase player speed
+shooter,Health,Status Update,Browsing,Increase player speed
+shooter,Environment,Status Update,Highly,Control opacity
+sports,Environment,Scheduled,Moderate,Control opacity
+shooter,Health,Status Update,Moderate,Control opacity
+360 VR,Environment,Unscheduled,DND,Control Audio
+simulation,Security,Status Update,Moderate,Control opacity
+sports,Health,Status Update,Moderate,Increase player speed
+adventure,Security,Unscheduled,Moderate,Control Audio
+adventure,Environment,Unscheduled,DND,Control Audio
+productivity,Security,Scheduled,Moderate,Control opacity
+Travel,Security,Scheduled,Browsing,Control opacity
+productivity,Security,Unscheduled,Moderate,Increase player speed
+360 VR,Environment,Status Update,Moderate,Control Audio
+productivity,Maintenance,Unscheduled,Highly,Control opacity
+shooter,Health,Status Update,DND,Control Audio
+productivity,Maintenance,Scheduled,Highly,Control opacity
+shooter,Environment,Unscheduled,Browsing,Increase player speed
+streaming,Security,Status Update,Highly,Increase player speed
+streaming,Security,Status Update,Browsing,Control opacity
+360 VR,Security,Status Update,DND,Control Audio
+shooter,Health,Status Update,Highly,Control Audio
+simulation,Security,Scheduled,Browsing,Control Audio
+productivity,Security,Unscheduled,Moderate,Control opacity
+adventure,Environment,Scheduled,DND,Control Audio
+shooter,Environment,Scheduled,Browsing,Increase player speed
+productivity,Maintenance,Status Update,DND,Increase player speed
+art/creativity,Maintenance,Status Update,DND,Control opacity
+action,Environment,Status Update,Browsing,Control opacity
+Travel,Security,Scheduled,Highly,Control Audio
+360 VR,Health,Scheduled,Browsing,Increase player speed
+shooter,Health,Scheduled,Browsing,Control Audio
+art/creativity,Health,Status Update,Browsing,Control Audio
+Travel,Environment,Unscheduled,Highly,Control opacity
+productivity,Health,Unscheduled,Highly,Control Audio
+productivity,Security,Status Update,DND,Control Audio
+streaming,Environment,Unscheduled,Browsing,Increase player speed
+360 VR,Environment,Status Update,Highly,Control Audio
+art/creativity,Maintenance,Scheduled,Moderate,Increase player speed
+streaming,Environment,Scheduled,Highly,Control Audio
+productivity,Security,Status Update,Highly,Increase player speed
+streaming,Health,Unscheduled,DND,Control Audio
+relaxation/meditation,Maintenance,Status Update,Highly,Increase player speed
+streaming,Environment,Unscheduled,Highly,Control opacity
+relaxation/meditation,Security,Status Update,DND,Increase player speed
+Travel,Security,Unscheduled,Highly,Increase player speed
+sports,Security,Scheduled,Moderate,Increase player speed
+simulation,Health,Status Update,Moderate,Increase player speed
+shooter,Environment,Status Update,DND,Control Audio
+sports,Security,Scheduled,Highly,Increase player speed
+relaxation/meditation,Security,Status Update,Highly,Control Audio
+art/creativity,Health,Status Update,DND,Control opacity
+streaming,Environment,Scheduled,Highly,Control Audio
+relaxation/meditation,Maintenance,Status Update,Moderate,Increase player speed
+relaxation/meditation,Health,Status Update,Highly,Control opacity
+relaxation/meditation,Environment,Scheduled,Moderate,Control opacity
+simulation,Environment,Scheduled,Browsing,Control opacity
+Travel,Health,Scheduled,Highly,Control opacity
+sports,Maintenance,Status Update,Moderate,Control Audio
+adventure,Security,Unscheduled,Browsing,Control opacity
+relaxation/meditation,Environment,Unscheduled,Browsing,Control opacity
+adventure,Maintenance,Scheduled,Browsing,Control Audio
+360 VR,Maintenance,Scheduled,Browsing,Control Audio
+simulation,Security,Unscheduled,Browsing,Control Audio
+360 VR,Security,Status Update,DND,Control opacity
+simulation,Security,Scheduled,DND,Control Audio
+sports,Health,Unscheduled,Browsing,Increase player speed
+adventure,Health,Unscheduled,DND,Control Audio
+adventure,Environment,Unscheduled,Highly,Increase player speed
+adventure,Security,Unscheduled,DND,Control opacity
+action,Maintenance,Unscheduled,Highly,Control Audio
+360 VR,Maintenance,Scheduled,Moderate,Increase player speed
+art/creativity,Maintenance,Scheduled,Highly,Control opacity
+productivity,Maintenance,Unscheduled,Moderate,Control opacity
+simulation,Security,Unscheduled,DND,Control Audio
+adventure,Security,Scheduled,Moderate,Control opacity
+relaxation/meditation,Health,Unscheduled,Browsing,Control Audio
+art/creativity,Security,Scheduled,Highly,Increase player speed
+sports,Health,Scheduled,Moderate,Increase player speed
+Travel,Maintenance,Scheduled,DND,Control opacity
+Travel,Security,Scheduled,Browsing,Increase player speed
+adventure,Security,Unscheduled,DND,Increase player speed
+simulation,Environment,Scheduled,DND,Increase player speed
+adventure,Maintenance,Status Update,DND,Control opacity
+productivity,Environment,Status Update,Browsing,Increase player speed
+relaxation/meditation,Health,Scheduled,Browsing,Control opacity
+productivity,Health,Unscheduled,Browsing,Control opacity
+art/creativity,Maintenance,Scheduled,DND,Control opacity
+sports,Environment,Status Update,Moderate,Control opacity
+shooter,Maintenance,Unscheduled,Browsing,Control Audio
+shooter,Security,Status Update,Highly,Increase player speed
+simulation,Maintenance,Status Update,Highly,Increase player speed
+action,Maintenance,Status Update,Moderate,Control opacity
+productivity,Environment,Scheduled,Highly,Control opacity
+simulation,Environment,Status Update,DND,Control opacity
+action,Health,Unscheduled,Highly,Control Audio
+streaming,Health,Unscheduled,DND,Increase player speed
+relaxation/meditation,Security,Status Update,Highly,Control Audio
+productivity,Health,Scheduled,Browsing,Control Audio
+productivity,Security,Unscheduled,Browsing,Control Audio
+adventure,Maintenance,Unscheduled,Moderate,Increase player speed
+streaming,Health,Scheduled,Browsing,Control opacity
+shooter,Health,Scheduled,Moderate,Control opacity
+360 VR,Maintenance,Status Update,Browsing,Control opacity
+action,Health,Unscheduled,Highly,Control Audio
+action,Environment,Scheduled,Moderate,Control opacity
+relaxation/meditation,Health,Scheduled,Highly,Increase player speed
+art/creativity,Maintenance,Unscheduled,Moderate,Control Audio
+360 VR,Security,Scheduled,Browsing,Increase player speed
+sports,Health,Status Update,Highly,Control opacity
+action,Health,Status Update,Moderate,Increase player speed
+Travel,Environment,Unscheduled,DND,Control opacity
+productivity,Maintenance,Scheduled,Moderate,Control Audio
+productivity,Environment,Unscheduled,Moderate,Control opacity
+Travel,Security,Status Update,Highly,Increase player speed
+productivity,Security,Unscheduled,Moderate,Increase player speed
+relaxation/meditation,Environment,Unscheduled,Moderate,Control opacity
+shooter,Environment,Unscheduled,DND,Control opacity
+productivity,Health,Status Update,Moderate,Control opacity
+action,Environment,Status Update,Moderate,Control opacity
+360 VR,Environment,Unscheduled,Moderate,Increase player speed
+Travel,Maintenance,Status Update,DND,Control Audio
+relaxation/meditation,Maintenance,Status Update,Browsing,Increase player speed
+action,Maintenance,Unscheduled,Highly,Control opacity
+relaxation/meditation,Security,Scheduled,Browsing,Increase player speed
+adventure,Security,Status Update,Moderate,Control opacity
+Travel,Environment,Unscheduled,Browsing,Increase player speed
+adventure,Security,Scheduled,Browsing,Control opacity
+productivity,Environment,Unscheduled,Browsing,Control Audio
+action,Environment,Status Update,Browsing,Control Audio
+shooter,Security,Status Update,Moderate,Control opacity
+streaming,Maintenance,Status Update,Highly,Control opacity
+art/creativity,Security,Status Update,Browsing,Control opacity
+Travel,Health,Scheduled,Moderate,Increase player speed
+shooter,Health,Status Update,Browsing,Increase player speed
+shooter,Environment,Unscheduled,Browsing,Control opacity
+relaxation/meditation,Health,Scheduled,Highly,Increase player speed
+streaming,Security,Status Update,Highly,Control Audio
+sports,Health,Status Update,Moderate,Control opacity
+adventure,Maintenance,Unscheduled,Browsing,Control Audio
+streaming,Maintenance,Status Update,Browsing,Increase player speed
+action,Maintenance,Scheduled,DND,Control opacity
+art/creativity,Security,Status Update,Moderate,Increase player speed
+Travel,Maintenance,Unscheduled,Highly,Control opacity
+adventure,Health,Scheduled,Browsing,Control Audio
+sports,Health,Unscheduled,Moderate,Control opacity
+Travel,Security,Status Update,Highly,Increase player speed
+sports,Health,Unscheduled,DND,Increase player speed
+action,Security,Scheduled,Moderate,Increase player speed
+simulation,Security,Unscheduled,DND,Control Audio
+relaxation/meditation,Maintenance,Unscheduled,DND,Control Audio
+art/creativity,Maintenance,Unscheduled,Moderate,Control opacity
+productivity,Security,Status Update,Moderate,Control Audio
+action,Health,Scheduled,Moderate,Control opacity
+relaxation/meditation,Maintenance,Unscheduled,Highly,Control opacity
+adventure,Maintenance,Status Update,Highly,Control opacity
+streaming,Maintenance,Status Update,Browsing,Increase player speed
+shooter,Security,Scheduled,DND,Control Audio
+sports,Environment,Status Update,DND,Increase player speed
+action,Health,Scheduled,Highly,Control Audio
+streaming,Maintenance,Scheduled,Moderate,Increase player speed
+Travel,Health,Unscheduled,Browsing,Increase player speed
+adventure,Security,Scheduled,DND,Increase player speed
+art/creativity,Maintenance,Status Update,DND,Control opacity
+360 VR,Health,Unscheduled,Moderate,Increase player speed
+relaxation/meditation,Environment,Unscheduled,Moderate,Control Audio
+streaming,Environment,Unscheduled,Moderate,Control Audio
+Travel,Maintenance,Scheduled,Highly,Control opacity
+relaxation/meditation,Maintenance,Unscheduled,Moderate,Control opacity
+productivity,Environment,Status Update,Highly,Control opacity
+art/creativity,Security,Unscheduled,DND,Increase player speed
+action,Environment,Status Update,Highly,Control opacity
+adventure,Maintenance,Status Update,Browsing,Increase player speed
+relaxation/meditation,Security,Status Update,Highly,Control Audio
+360 VR,Maintenance,Scheduled,DND,Control opacity
+art/creativity,Maintenance,Scheduled,DND,Increase player speed
+360 VR,Health,Scheduled,DND,Control opacity
+simulation,Environment,Scheduled,DND,Control opacity
+relaxation/meditation,Environment,Status Update,Moderate,Increase player speed
+art/creativity,Maintenance,Status Update,Browsing,Control Audio
+simulation,Health,Unscheduled,Browsing,Control Audio
+Travel,Environment,Scheduled,Browsing,Control Audio
+360 VR,Environment,Unscheduled,Highly,Increase player speed
+simulation,Security,Status Update,Browsing,Control Audio
+Travel,Environment,Status Update,Browsing,Control Audio
+simulation,Health,Status Update,Browsing,Control opacity
+simulation,Security,Unscheduled,Moderate,Control Audio
+simulation,Security,Scheduled,Moderate,Increase player speed
+Travel,Health,Unscheduled,Moderate,Control opacity
+simulation,Health,Unscheduled,Moderate,Increase player speed
+shooter,Environment,Scheduled,Moderate,Control Audio
+adventure,Security,Unscheduled,Highly,Increase player speed
+sports,Environment,Scheduled,Moderate,Control opacity
+sports,Environment,Scheduled,Highly,Control Audio
+streaming,Health,Scheduled,Browsing,Control opacity
+Travel,Maintenance,Status Update,Highly,Control Audio
+simulation,Health,Status Update,Moderate,Increase player speed
+360 VR,Environment,Unscheduled,Highly,Increase player speed
+sports,Environment,Unscheduled,Moderate,Control opacity
+sports,Security,Unscheduled,DND,Increase player speed
+streaming,Environment,Unscheduled,Highly,Control opacity
+Travel,Security,Scheduled,Moderate,Control opacity
+streaming,Environment,Status Update,DND,Control opacity
+shooter,Health,Scheduled,Moderate,Control opacity
+streaming,Security,Scheduled,Moderate,Control Audio
+action,Maintenance,Status Update,Browsing,Increase player speed
+relaxation/meditation,Security,Scheduled,Highly,Control Audio
+simulation,Environment,Unscheduled,DND,Increase player speed
+shooter,Maintenance,Scheduled,DND,Control opacity
+art/creativity,Health,Unscheduled,Browsing,Increase player speed
+shooter,Environment,Unscheduled,Browsing,Control opacity
+Travel,Maintenance,Unscheduled,Highly,Control Audio
+action,Security,Unscheduled,Highly,Control Audio
+shooter,Environment,Scheduled,DND,Control Audio
+360 VR,Security,Scheduled,Highly,Control Audio
+streaming,Maintenance,Unscheduled,Highly,Control Audio
+adventure,Security,Unscheduled,Highly,Increase player speed
+action,Maintenance,Status Update,Highly,Increase player speed
+adventure,Health,Status Update,Moderate,Increase player speed
+productivity,Environment,Status Update,Browsing,Control opacity
+simulation,Maintenance,Scheduled,Browsing,Control Audio
+streaming,Maintenance,Scheduled,DND,Control Audio
+relaxation/meditation,Security,Status Update,DND,Control Audio
+Travel,Health,Status Update,Highly,Control opacity
+shooter,Security,Unscheduled,Browsing,Control Audio
+simulation,Environment,Scheduled,Highly,Control Audio
+sports,Security,Unscheduled,Browsing,Control Audio
+productivity,Security,Status Update,DND,Control opacity
+productivity,Environment,Status Update,DND,Increase player speed
+relaxation/meditation,Security,Scheduled,Moderate,Increase player speed
+Travel,Maintenance,Status Update,Browsing,Increase player speed
+relaxation/meditation,Environment,Scheduled,Highly,Increase player speed
+adventure,Maintenance,Unscheduled,DND,Control Audio
+simulation,Health,Scheduled,Moderate,Control opacity
+360 VR,Health,Scheduled,Moderate,Control opacity
+art/creativity,Environment,Scheduled,Browsing,Control Audio
+relaxation/meditation,Security,Scheduled,Browsing,Control Audio
+streaming,Maintenance,Scheduled,Browsing,Increase player speed
+productivity,Environment,Unscheduled,Browsing,Control opacity
+shooter,Security,Scheduled,Moderate,Control opacity
+productivity,Health,Status Update,Highly,Increase player speed
+sports,Health,Scheduled,Moderate,Control Audio
+360 VR,Health,Scheduled,DND,Increase player speed
+simulation,Maintenance,Scheduled,Highly,Control Audio
+sports,Maintenance,Scheduled,Highly,Increase player speed
+streaming,Health,Unscheduled,DND,Control Audio
+shooter,Health,Status Update,DND,Increase player speed
+shooter,Maintenance,Status Update,Browsing,Control opacity
+action,Security,Status Update,Moderate,Control Audio
+shooter,Environment,Scheduled,Browsing,Increase player speed
+sports,Health,Scheduled,Moderate,Increase player speed
+adventure,Maintenance,Status Update,Moderate,Increase player speed
+Travel,Health,Scheduled,Moderate,Increase player speed
+simulation,Health,Scheduled,DND,Increase player speed
+simulation,Environment,Scheduled,Moderate,Control opacity
+adventure,Maintenance,Scheduled,DND,Increase player speed
+productivity,Maintenance,Unscheduled,Highly,Increase player speed
+360 VR,Security,Status Update,Moderate,Increase player speed
+Travel,Environment,Scheduled,Moderate,Control opacity
+Travel,Health,Status Update,Browsing,Control Audio
+sports,Security,Status Update,Highly,Control Audio
+adventure,Health,Unscheduled,Moderate,Control opacity
+adventure,Health,Scheduled,Browsing,Control Audio
+shooter,Environment,Unscheduled,Browsing,Control Audio
+productivity,Maintenance,Scheduled,Highly,Control opacity
+sports,Security,Unscheduled,DND,Control opacity
+sports,Health,Scheduled,Browsing,Control Audio
+streaming,Maintenance,Unscheduled,Highly,Control Audio
+art/creativity,Security,Status Update,DND,Control opacity
+productivity,Health,Unscheduled,Moderate,Control Audio
+action,Maintenance,Status Update,DND,Control opacity
+Travel,Maintenance,Scheduled,DND,Increase player speed
+streaming,Security,Status Update,Browsing,Increase player speed
+simulation,Maintenance,Status Update,DND,Increase player speed
+adventure,Health,Status Update,Highly,Increase player speed
+productivity,Maintenance,Status Update,Moderate,Control opacity
+adventure,Maintenance,Status Update,Highly,Control Audio
+art/creativity,Health,Scheduled,Browsing,Control Audio
+art/creativity,Environment,Scheduled,Highly,Control opacity
+Travel,Security,Unscheduled,Browsing,Increase player speed
+shooter,Maintenance,Status Update,DND,Increase player speed
+streaming,Maintenance,Status Update,DND,Control opacity
+productivity,Environment,Status Update,Highly,Control Audio
+action,Maintenance,Unscheduled,DND,Increase player speed
+productivity,Maintenance,Status Update,Highly,Control opacity
+Travel,Environment,Scheduled,Highly,Control Audio
+360 VR,Environment,Status Update,Moderate,Control opacity
+productivity,Security,Status Update,Moderate,Control opacity
+sports,Health,Status Update,Highly,Control opacity
+simulation,Environment,Status Update,DND,Control opacity
+art/creativity,Environment,Unscheduled,Browsing,Increase player speed
+productivity,Security,Scheduled,Moderate,Control Audio
+art/creativity,Maintenance,Unscheduled,Highly,Control opacity
+productivity,Security,Unscheduled,DND,Increase player speed
+shooter,Maintenance,Status Update,Highly,Increase player speed
+adventure,Health,Status Update,Highly,Increase player speed
+Travel,Health,Unscheduled,DND,Control Audio
+Travel,Health,Unscheduled,DND,Control opacity
+relaxation/meditation,Maintenance,Scheduled,Browsing,Control Audio
+relaxation/meditation,Environment,Unscheduled,Browsing,Increase player speed
+simulation,Security,Status Update,DND,Control opacity
+streaming,Health,Status Update,Moderate,Increase player speed
+360 VR,Security,Status Update,DND,Control opacity
+simulation,Security,Unscheduled,Highly,Increase player speed
+sports,Environment,Unscheduled,Browsing,Control Audio
+action,Security,Status Update,Moderate,Control Audio
+sports,Security,Unscheduled,Highly,Increase player speed
+action,Environment,Scheduled,Highly,Control opacity
+productivity,Environment,Scheduled,DND,Control opacity
+360 VR,Maintenance,Unscheduled,DND,Control opacity
+shooter,Environment,Status Update,DND,Control Audio
+360 VR,Security,Status Update,Browsing,Control Audio
+productivity,Environment,Scheduled,DND,Increase player speed
+streaming,Health,Unscheduled,DND,Control opacity
+streaming,Maintenance,Scheduled,Moderate,Control opacity
+shooter,Environment,Unscheduled,DND,Control opacity
+productivity,Maintenance,Status Update,Highly,Control opacity
+art/creativity,Security,Status Update,Moderate,Control opacity
+360 VR,Security,Scheduled,Browsing,Control Audio
+relaxation/meditation,Maintenance,Status Update,Moderate,Control Audio
+adventure,Maintenance,Scheduled,Moderate,Control Audio
+productivity,Health,Status Update,Browsing,Control Audio
+relaxation/meditation,Maintenance,Unscheduled,DND,Control Audio
+action,Health,Unscheduled,DND,Increase player speed
+360 VR,Environment,Status Update,Highly,Increase player speed
+productivity,Environment,Unscheduled,Highly,Control opacity
+adventure,Maintenance,Status Update,Moderate,Control opacity
+simulation,Maintenance,Scheduled,Moderate,Increase player speed
+adventure,Health,Unscheduled,DND,Control Audio
+adventure,Health,Scheduled,Highly,Increase player speed
+360 VR,Health,Unscheduled,DND,Control Audio
+productivity,Maintenance,Unscheduled,Highly,Increase player speed
+productivity,Environment,Status Update,Browsing,Control Audio
+productivity,Environment,Status Update,Browsing,Increase player speed
+simulation,Health,Unscheduled,Moderate,Control opacity
+360 VR,Maintenance,Unscheduled,DND,Increase player speed
+Travel,Health,Status Update,Browsing,Control Audio
+action,Security,Status Update,Moderate,Increase player speed
+simulation,Maintenance,Scheduled,Browsing,Control Audio
+streaming,Health,Unscheduled,DND,Increase player speed
+productivity,Maintenance,Status Update,Moderate,Control opacity
+sports,Security,Unscheduled,Browsing,Control Audio
+productivity,Security,Status Update,Highly,Increase player speed
+action,Security,Scheduled,Highly,Control opacity
+sports,Environment,Status Update,Browsing,Control Audio
+Travel,Maintenance,Status Update,Moderate,Control Audio
+simulation,Environment,Unscheduled,DND,Control Audio
+simulation,Health,Status Update,DND,Control opacity
+shooter,Environment,Unscheduled,Highly,Control Audio
+sports,Maintenance,Scheduled,Moderate,Control opacity
+shooter,Environment,Unscheduled,Highly,Increase player speed
+productivity,Environment,Scheduled,Highly,Increase player speed
+art/creativity,Environment,Scheduled,Moderate,Control Audio
+productivity,Maintenance,Status Update,DND,Increase player speed
+adventure,Maintenance,Unscheduled,Browsing,Control Audio
+relaxation/meditation,Health,Status Update,Highly,Control opacity
+Travel,Environment,Status Update,DND,Control Audio
+streaming,Maintenance,Unscheduled,Browsing,Control opacity
+productivity,Health,Status Update,Browsing,Control opacity
+action,Health,Unscheduled,Moderate,Increase player speed
+action,Environment,Unscheduled,Highly,Increase player speed
+simulation,Security,Unscheduled,Browsing,Control opacity
+art/creativity,Maintenance,Status Update,Moderate,Control opacity
+sports,Health,Status Update,DND,Increase player speed
+Travel,Maintenance,Unscheduled,DND,Increase player speed
+simulation,Environment,Unscheduled,Highly,Increase player speed
+art/creativity,Security,Status Update,Highly,Control Audio
+art/creativity,Maintenance,Scheduled,DND,Control opacity
+adventure,Health,Unscheduled,DND,Increase player speed
+streaming,Health,Scheduled,Moderate,Control opacity
+adventure,Maintenance,Unscheduled,Browsing,Control Audio
+360 VR,Health,Unscheduled,Highly,Increase player speed
+productivity,Security,Scheduled,DND,Control opacity
+action,Security,Unscheduled,Moderate,Control opacity
+sports,Health,Scheduled,Moderate,Control Audio
+streaming,Security,Scheduled,DND,Control Audio
+streaming,Security,Scheduled,DND,Control opacity
+art/creativity,Environment,Status Update,DND,Control opacity
+adventure,Environment,Unscheduled,Highly,Increase player speed
+action,Maintenance,Status Update,Moderate,Control opacity
+shooter,Health,Scheduled,DND,Control opacity
+Travel,Environment,Unscheduled,Highly,Control opacity
+Travel,Security,Scheduled,Highly,Control Audio
+simulation,Health,Status Update,DND,Increase player speed
+productivity,Security,Scheduled,Highly,Control opacity
+streaming,Environment,Status Update,DND,Increase player speed
+relaxation/meditation,Maintenance,Scheduled,Highly,Control opacity
+sports,Environment,Scheduled,Browsing,Increase player speed
+360 VR,Environment,Status Update,Highly,Control opacity
+360 VR,Health,Unscheduled,Moderate,Control Audio
+productivity,Security,Scheduled,DND,Control Audio
+sports,Security,Unscheduled,DND,Control opacity
+360 VR,Health,Status Update,DND,Increase player speed
+sports,Security,Scheduled,Moderate,Control Audio
+simulation,Environment,Scheduled,Highly,Control opacity
+360 VR,Health,Unscheduled,Moderate,Control opacity
+action,Health,Status Update,DND,Increase player speed
+art/creativity,Environment,Scheduled,Moderate,Control Audio
+productivity,Environment,Unscheduled,Browsing,Control opacity
+simulation,Security,Status Update,DND,Control opacity
+art/creativity,Health,Unscheduled,DND,Control Audio
+adventure,Security,Scheduled,Highly,Control opacity
+360 VR,Security,Unscheduled,Highly,Control opacity
+shooter,Environment,Unscheduled,Moderate,Control Audio
+Travel,Maintenance,Unscheduled,Highly,Control Audio
+simulation,Environment,Unscheduled,Moderate,Control Audio
+relaxation/meditation,Environment,Scheduled,Browsing,Control opacity
+simulation,Health,Scheduled,Highly,Control opacity
+sports,Maintenance,Scheduled,Browsing,Increase player speed
+productivity,Security,Unscheduled,Browsing,Control Audio
+simulation,Environment,Status Update,Moderate,Control Audio
+streaming,Maintenance,Scheduled,Moderate,Increase player speed
+productivity,Maintenance,Status Update,Highly,Control opacity
+shooter,Security,Status Update,Browsing,Increase player speed
+simulation,Health,Unscheduled,Highly,Control Audio
+productivity,Security,Unscheduled,Moderate,Control opacity
+action,Maintenance,Status Update,Moderate,Increase player speed
+action,Environment,Scheduled,Browsing,Increase player speed
+shooter,Maintenance,Scheduled,Highly,Increase player speed
+360 VR,Maintenance,Scheduled,Moderate,Increase player speed
+streaming,Environment,Scheduled,Moderate,Control opacity
+simulation,Environment,Status Update,Highly,Control opacity
+adventure,Maintenance,Unscheduled,DND,Control opacity
+action,Security,Unscheduled,Highly,Control opacity
+productivity,Health,Scheduled,Browsing,Control opacity
+shooter,Health,Unscheduled,Moderate,Increase player speed
+sports,Maintenance,Scheduled,Highly,Increase player speed
+simulation,Environment,Scheduled,Moderate,Control Audio
+adventure,Security,Scheduled,DND,Control Audio
+simulation,Environment,Status Update,Browsing,Increase player speed
+art/creativity,Security,Scheduled,DND,Control opacity
+streaming,Security,Unscheduled,Browsing,Control Audio
+simulation,Environment,Status Update,DND,Control opacity
+shooter,Maintenance,Status Update,Highly,Increase player speed
+streaming,Security,Scheduled,Moderate,Increase player speed
+adventure,Health,Status Update,DND,Control Audio
+shooter,Security,Scheduled,Highly,Control opacity
+art/creativity,Environment,Unscheduled,Highly,Control Audio
+adventure,Security,Unscheduled,Highly,Control Audio
+360 VR,Health,Status Update,Moderate,Control Audio
+simulation,Environment,Unscheduled,Highly,Control opacity
+productivity,Maintenance,Status Update,Browsing,Increase player speed
+relaxation/meditation,Environment,Status Update,Browsing,Control opacity
+streaming,Security,Status Update,Browsing,Increase player speed
+simulation,Security,Status Update,Browsing,Increase player speed
+art/creativity,Maintenance,Status Update,DND,Control opacity
+simulation,Maintenance,Status Update,Moderate,Control opacity
+360 VR,Maintenance,Status Update,Highly,Control opacity
+adventure,Maintenance,Unscheduled,Browsing,Control Audio
+sports,Environment,Scheduled,Moderate,Control opacity
+simulation,Health,Status Update,Browsing,Control opacity
+action,Health,Unscheduled,Browsing,Increase player speed
+action,Security,Status Update,Moderate,Control Audio
+action,Environment,Unscheduled,DND,Increase player speed
+Travel,Maintenance,Scheduled,Browsing,Increase player speed
+Travel,Health,Scheduled,DND,Control Audio
+360 VR,Health,Status Update,Moderate,Increase player speed
+productivity,Health,Scheduled,Moderate,Increase player speed
+streaming,Health,Unscheduled,Highly,Control Audio
+shooter,Security,Status Update,DND,Control opacity
+Travel,Security,Status Update,Browsing,Control Audio
+action,Health,Status Update,DND,Control Audio
+sports,Maintenance,Unscheduled,Browsing,Increase player speed
+action,Security,Scheduled,DND,Control opacity
+art/creativity,Security,Scheduled,DND,Increase player speed
+Travel,Environment,Scheduled,Moderate,Control opacity
+relaxation/meditation,Security,Scheduled,DND,Increase player speed
+360 VR,Health,Scheduled,Browsing,Control opacity
+sports,Health,Scheduled,Moderate,Control Audio
+360 VR,Health,Scheduled,Browsing,Control Audio
+streaming,Maintenance,Scheduled,Highly,Control Audio
+Travel,Environment,Status Update,Highly,Control Audio
+productivity,Maintenance,Scheduled,Browsing,Increase player speed
+productivity,Environment,Scheduled,Browsing,Increase player speed
+productivity,Security,Unscheduled,DND,Increase player speed
+adventure,Environment,Unscheduled,Moderate,Increase player speed
+Travel,Health,Scheduled,Moderate,Control opacity
+sports,Security,Unscheduled,Moderate,Control Audio
+art/creativity,Health,Status Update,Browsing,Control opacity
+360 VR,Security,Unscheduled,Browsing,Increase player speed
+adventure,Maintenance,Unscheduled,DND,Increase player speed
+streaming,Maintenance,Status Update,Moderate,Control opacity
+relaxation/meditation,Security,Status Update,Moderate,Increase player speed
+Travel,Security,Scheduled,Moderate,Control opacity
+streaming,Maintenance,Status Update,Moderate,Control Audio
+art/creativity,Environment,Status Update,Moderate,Control Audio
+art/creativity,Environment,Unscheduled,DND,Control Audio
+shooter,Security,Status Update,DND,Control opacity
+360 VR,Health,Status Update,Highly,Control Audio
+shooter,Maintenance,Status Update,Moderate,Control Audio
+relaxation/meditation,Health,Status Update,DND,Control Audio
+360 VR,Environment,Unscheduled,Moderate,Increase player speed
+Travel,Maintenance,Scheduled,Highly,Control opacity
+streaming,Health,Unscheduled,Highly,Increase player speed
+sports,Environment,Scheduled,Browsing,Control Audio
+productivity,Health,Status Update,Moderate,Control Audio
+simulation,Health,Scheduled,Highly,Increase player speed
+360 VR,Health,Scheduled,Browsing,Control Audio
+adventure,Maintenance,Status Update,Moderate,Control opacity
+360 VR,Environment,Unscheduled,Highly,Control opacity
+shooter,Security,Scheduled,DND,Control opacity
+sports,Environment,Status Update,Highly,Control Audio
+relaxation/meditation,Maintenance,Unscheduled,DND,Control opacity
+streaming,Security,Scheduled,Highly,Increase player speed
+adventure,Maintenance,Scheduled,Highly,Control opacity
+Travel,Health,Unscheduled,Highly,Control Audio
+adventure,Maintenance,Scheduled,Browsing,Control Audio
+streaming,Maintenance,Scheduled,Browsing,Control Audio
+shooter,Security,Unscheduled,Browsing,Control opacity
+art/creativity,Health,Scheduled,Moderate,Increase player speed
+shooter,Health,Unscheduled,Moderate,Increase player speed
+art/creativity,Environment,Status Update,Highly,Control Audio
+shooter,Security,Scheduled,DND,Control opacity
+productivity,Health,Scheduled,DND,Control opacity
+action,Maintenance,Status Update,Moderate,Control opacity
+productivity,Environment,Scheduled,Moderate,Control opacity
+action,Environment,Scheduled,DND,Control Audio
+art/creativity,Environment,Scheduled,Moderate,Control opacity
+action,Health,Status Update,Browsing,Control Audio
+action,Security,Unscheduled,Browsing,Control opacity
+360 VR,Health,Unscheduled,DND,Control Audio
+Travel,Maintenance,Scheduled,DND,Control opacity
+productivity,Health,Status Update,Browsing,Control Audio
+sports,Environment,Status Update,Moderate,Control opacity
+shooter,Health,Unscheduled,DND,Control Audio
+streaming,Health,Unscheduled,Browsing,Control Audio
+relaxation/meditation,Health,Unscheduled,Browsing,Increase player speed
